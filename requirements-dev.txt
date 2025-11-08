@@ -4,7 +4,7 @@ pycodestyle==2.8.0
 pyflakes==2.4.0
 
 # Deps do pytest
-attrs==21.4.0
+attrs==25.4.0
 pluggy==1.0.0
 atomicwrites==1.4.1
 colorama==0.4.5
