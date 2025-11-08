@@ -8,7 +8,7 @@ attrs==21.4.0
 pluggy==1.0.0
 atomicwrites==1.4.1
 colorama==0.4.5
-packaging==21.3
+packaging==25.0
 py==1.11.0
 iniconfig==1.1.1
 tomli==2.0.1
