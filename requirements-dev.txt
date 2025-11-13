@@ -13,7 +13,7 @@ py==1.11.0
 iniconfig==1.1.1
 tomli==2.0.1
 pyparsing==3.0.9
-pytest==7.1.2
+pytest==8.4.2
 pytest-mock==3.8.2
 
 # Coverage
